@@ -39,6 +39,8 @@ next-env.d.ts
 
 # private / internal — not for public repo
 INSTRUCTIONS.md
+NOTE.md
+DEPLOY.md
 scripts/
 data/missing_deadlines.json
 
