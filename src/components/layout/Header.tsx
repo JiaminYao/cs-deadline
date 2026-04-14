@@ -18,7 +18,7 @@ export function Header() {
         </div>
         <div className="flex items-center gap-1">
           <a
-            href="https://github.com/yaojiamin/CoreDDL"
+            href="https://github.com/JiaminYao/CSDeadline"
             target="_blank"
             rel="noopener noreferrer"
             className="w-8 h-8 flex items-center justify-center rounded-lg text-gray-500 hover:text-gray-900 dark:hover:text-white hover:bg-gray-100 dark:hover:bg-gray-800 transition-colors"
