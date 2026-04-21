@@ -1,0 +1,25 @@
+# Manual overrides applied on top of ccfddl/WikiCFP data.
+#
+# Format:
+#   <TITLE>:           # exact match against the `title` field in conferences.json (usually uppercase acronym)
+#     <YEAR>:          # 4-digit year
+#       <field>: <value>
+#       deadlines:     # nested; merged field-by-field with whatever was sourced
+#         full_paper: "YYYY-MM-DDTHH:MM:SS"
+#         abstract:   "YYYY-MM-DDTHH:MM:SS"
+#       timezone: "AoE" | "UTC" | "UTC+8" | "UTC-5" | ...
+#       place:    "..."
+#       date:     "..."
+#       link:     "..."
+#
+# Unlisted fields stay as sourced. Keep each entry short — only list what's wrong.
+
+NEURIPS:
+  2026:
+    deadlines:
+      full_paper: "2026-05-06T23:59:00"
+      abstract:   "2026-05-04T23:59:00"
+    timezone: "AoE"
+    place: "Sydney / Atlanta / Paris"
+    date:  "Dec 6-13, 2026"
+    link:  "https://neurips.cc/Conferences/2026"
