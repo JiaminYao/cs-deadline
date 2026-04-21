@@ -3,7 +3,7 @@
 import { Star, X } from "lucide-react";
 import type { FilterState, Domain, CoreRank, Organizer } from "@/lib/types";
 import { SearchBox } from "./SearchBox";
-import { PillGroup } from "./PillGroup";
+import { Dropdown } from "./Dropdown";
 import { cn } from "@/lib/utils";
 
 interface Props {
@@ -64,26 +64,22 @@ export function FilterBar({ filters, onFilterChange, onReset, hasActiveFilters }
       </div>
 
       {/* Filter rows */}
-      <div className="flex flex-col gap-1.5 text-sm">
-        <PillGroup label="Domain" options={domainOptions} value={filters.domain} onChange={(domain) => onFilterChange({ domain })} />
-        <div className="flex items-center gap-3 flex-wrap">
-          <button
-            onClick={() => onFilterChange({ csrankings_only: !filters.csrankings_only })}
-            className={cn(
-              "inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-xs font-medium transition-colors border shrink-0",
-              filters.csrankings_only
-                ? "bg-violet-600 text-white border-violet-600"
-                : "bg-transparent text-gray-600 dark:text-gray-400 border-gray-200 dark:border-gray-700 hover:border-gray-400 dark:hover:border-gray-500 hover:text-gray-900 dark:hover:text-white"
-            )}
-          >
-            CSRankings
-            <Star className="w-2.5 h-2.5 fill-current" />
-          </button>
-          <div className="w-px h-4 bg-gray-200 dark:bg-gray-700 shrink-0" />
-          <PillGroup label="Core Ranking" options={rankOptions} value={filters.rank} onChange={(rank) => onFilterChange({ rank })} />
-          <div className="w-px h-4 bg-gray-200 dark:bg-gray-700 shrink-0" />
-          <PillGroup label="Org" options={organizerOptions} value={filters.organizer} onChange={(organizer) => onFilterChange({ organizer })} />
-        </div>
+      <div className="flex items-center gap-x-4 gap-y-2 flex-wrap text-sm">
+        <Dropdown label="Domain" options={domainOptions} value={filters.domain} onChange={(domain) => onFilterChange({ domain })} defaultValue="All" />
+        <Dropdown label="Core Ranking" options={rankOptions} value={filters.rank} onChange={(rank) => onFilterChange({ rank })} defaultValue="All" />
+        <Dropdown label="Org" options={organizerOptions} value={filters.organizer} onChange={(organizer) => onFilterChange({ organizer })} defaultValue="All" />
+        <button
+          onClick={() => onFilterChange({ csrankings_only: !filters.csrankings_only })}
+          className={cn(
+            "inline-flex items-center gap-1 px-2.5 py-0.5 rounded-full text-xs font-medium transition-colors border shrink-0",
+            filters.csrankings_only
+              ? "bg-violet-600 text-white border-violet-600"
+              : "bg-transparent text-gray-600 dark:text-gray-400 border-gray-200 dark:border-gray-700 hover:border-gray-400 dark:hover:border-gray-500 hover:text-gray-900 dark:hover:text-white"
+          )}
+        >
+          CSRankings
+          <Star className="w-2.5 h-2.5 fill-current" />
+        </button>
       </div>
     </div>
   );
