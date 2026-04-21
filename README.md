@@ -41,7 +41,7 @@ A free, fast, static site that pulls deadline data from WikiCFP and ccf-deadline
 | Calendar | `ics` package + Google / Yahoo / Outlook URL builders |
 | Theming | next-themes |
 | Data | Static JSON bundled at build time (no backend) |
-| Data sources | WikiCFP, ccf-deadlines (MIT), CORE Portal (ICORE2023), CSRankings |
+| Data sources | [CORE Portal](https://portal.core.edu.au/conf-ranks/) (ICORE2023), [CSRankings](https://csrankings.org) by Emery Berger, [WikiCFP](http://www.wikicfp.com), [ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) (MIT). See [THIRD_PARTY_LICENSES.md](./THIRD_PARTY_LICENSES.md). |
 | Hosting | Cloudflare Pages |
 
 ⭐ If you enjoyed this project, give it a star! It means a lot!
