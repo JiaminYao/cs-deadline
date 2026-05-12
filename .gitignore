@@ -41,7 +41,7 @@ next-env.d.ts
 INSTRUCTIONS.md
 NOTE.md
 DEPLOY.md
-scripts/
+scripts/__pycache__/
 data/missing_deadlines.json
 
 # AI assistant memory
