@@ -43,7 +43,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/conferences.json data/missing_deadlines.json
+          git add data/conferences.json
           if git diff --staged --quiet; then
             echo "No data changes — skipping commit."
           else
