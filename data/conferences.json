@@ -6560,6 +6560,25 @@
     "artifact_badge": false
   },
   {
+    "title": "SEC",
+    "full_name": "ACM/IEEE Symposium on Edge Computing",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://ifipsec.org/2021/",
+    "deadlines": {
+      "full_paper": "2021-04-15T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Oslo, Norway",
+    "date": "June 22-24, 2021",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "ICPP",
     "full_name": "International Conference on Parallel Processing",
     "rank_core": "B",
@@ -12891,6 +12910,25 @@
     "artifact_badge": false
   },
   {
+    "title": "SEC",
+    "full_name": "ACM/IEEE Symposium on Edge Computing",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://sec2025.um.si/",
+    "deadlines": {
+      "full_paper": "2025-01-20T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Hotel City, Maribor, Slovenia",
+    "date": "May 21-23, 2025",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "ASIACCS",
     "full_name": "Asia Conference on Information, Computer and Communications Security",
     "rank_core": "A",
@@ -17090,6 +17128,25 @@
     "artifact_badge": false
   },
   {
+    "title": "SEC",
+    "full_name": "ACM/IEEE Symposium on Edge Computing",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://ifipsec.org/index.html",
+    "deadlines": {
+      "full_paper": "2025-12-19T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Perth, Australia",
+    "date": "June 09 - 11, 2026",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "ICPR",
     "full_name": "International Conference on Pattern Recognition",
     "rank_core": "B",
@@ -18684,26 +18741,6 @@
     "date": "September 27-30, 2026",
     "domains": [
       "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SEC",
-    "full_name": "ACM/IEEE Symposium on Edge Computing",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://acm-ieee-sec.org/2026/",
-    "deadlines": {
-      "full_paper": "2026-05-01T23:59:00",
-      "abstract": "2026-04-24T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Santa Clara University, CA, USA",
-    "date": "Oct 13-16, 2026",
-    "domains": [
-      "Systems"
     ],
     "open_access": false,
     "artifact_badge": false
