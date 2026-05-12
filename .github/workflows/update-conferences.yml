@@ -1,0 +1,49 @@
+name: Update conference data
+
+on:
+  schedule:
+    # 1st and 15th of each month at 06:00 UTC (≈ 14:00 北京时间)
+    - cron: '0 6 1,15 * *'
+  workflow_dispatch:   # manual trigger from GitHub UI
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python deps
+        run: pip install requests beautifulsoup4 pyyaml
+
+      - name: Restore fetch caches
+        uses: actions/cache@v4
+        with:
+          path: |
+            /tmp/wikicfp_cache.json
+            /tmp/core_list_abc.json
+          key: fetch-cache-${{ github.run_id }}
+          restore-keys: |
+            fetch-cache-
+
+      - name: Run fetch script
+        run: python3 scripts/fetch_conferences.py
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/conferences.json data/missing_deadlines.json
+          if git diff --staged --quiet; then
+            echo "No data changes — skipping commit."
+          else
+            git commit -m "chore: scheduled conference data refresh"
+            git push
+          fi
