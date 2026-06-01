@@ -1,44 +1,5 @@
 [
   {
-    "title": "EUROSYS",
-    "full_name": "Eurosys Conference",
-    "rank_core": "A",
-    "is_csrankings": true,
-    "organizer": "Other",
-    "link": "https://2027.eurosys.org/",
-    "deadlines": {
-      "full_paper": "2026-05-14T23:59:00",
-      "abstract": "2026-05-07T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Rabat, Morocco",
-    "date": "April 19-24, 2027",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "EMNLP",
-    "full_name": "Empirical Methods in Natural Language Processing",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "Other",
-    "link": "https://2026.emnlp.org/",
-    "deadlines": {
-      "full_paper": "2026-05-25T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Budapest, Hungary",
-    "date": "October 24 - 29, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
     "title": "VLDB",
     "full_name": "International Conference on Very Large Databases",
     "rank_core": "A*",
@@ -293,6 +254,45 @@
     "domains": [
       "Networking",
       "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "EUROSYS",
+    "full_name": "Eurosys Conference",
+    "rank_core": "A",
+    "is_csrankings": true,
+    "organizer": "Other",
+    "link": "https://2027.eurosys.org/",
+    "deadlines": {
+      "full_paper": "2026-09-24T23:59:00",
+      "abstract": "2026-09-17T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Rabat, Morocco",
+    "date": "April 19-24, 2027",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "FSE",
+    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://conf.researchr.org/home/fse-2027",
+    "deadlines": {
+      "full_paper": "2026-10-02T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Shenzhen, China",
+    "date": "July 12-16, 2027",
+    "domains": [
+      "SE & PL"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -1226,6 +1226,25 @@
     "artifact_badge": false
   },
   {
+    "title": "FSE",
+    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://2022.esec-fse.org/",
+    "deadlines": {
+      "full_paper": "2022-03-17T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Singapore",
+    "date": "November 14-18, 2022",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "MICRO",
     "full_name": "International Symposium on Microarchitecture",
     "rank_core": "A*",
@@ -1700,25 +1719,6 @@
     "artifact_badge": false
   },
   {
-    "title": "FSE",
-    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "ACM",
-    "link": "https://fse.iacr.org/2023/",
-    "deadlines": {
-      "full_paper": "2022-11-23T11:59:00"
-    },
-    "timezone": "UTC+0",
-    "place": "Beijing, China",
-    "date": "March 20-24, 2023",
-    "domains": [
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
     "title": "OSDI",
     "full_name": "Usenix Symposium on Operating Systems Design and Implementation",
     "rank_core": "A*",
@@ -1814,6 +1814,25 @@
     "domains": [
       "Data",
       "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "FSE",
+    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://2023.esec-fse.org/",
+    "deadlines": {
+      "full_paper": "2023-02-02T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "United States",
+    "date": "November 11-17, 2023",
+    "domains": [
+      "SE & PL"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -2271,6 +2290,26 @@
     "artifact_badge": false
   },
   {
+    "title": "FSE",
+    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://2024.esec-fse.org/",
+    "deadlines": {
+      "full_paper": "2023-09-28T23:59:00",
+      "abstract": "2023-09-21T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Porto de Galinas, Brazil",
+    "date": "July 15-19, 2024",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "ICLR",
     "full_name": "International Conference on Learning Representations",
     "rank_core": "A*",
@@ -2403,25 +2442,6 @@
     "date": "June 29-July 3, 2024",
     "domains": [
       "Systems",
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "FSE",
-    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "ACM",
-    "link": "https://fse.iacr.org/2024/",
-    "deadlines": {
-      "full_paper": "2023-11-23T11:59:00"
-    },
-    "timezone": "UTC+0",
-    "place": "Leuven, Belgium",
-    "date": "March 25-29, 2024",
-    "domains": [
       "SE & PL"
     ],
     "open_access": false,
@@ -3019,6 +3039,26 @@
     "artifact_badge": false
   },
   {
+    "title": "FSE",
+    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://conf.researchr.org/home/fse-2025",
+    "deadlines": {
+      "full_paper": "2024-09-12T23:59:00",
+      "abstract": "2024-09-05T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Trondheim, Norway",
+    "date": "June 23-27, 2025",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "CHI",
     "full_name": "International Conference on Human Factors in Computing Systems",
     "rank_core": "A*",
@@ -3312,25 +3352,6 @@
     "domains": [
       "CV & Multimedia",
       "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "FSE",
-    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "ACM",
-    "link": "https://fse.iacr.org/2025/",
-    "deadlines": {
-      "full_paper": "2024-11-22T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Rome, Italy",
-    "date": "March 17-21, 2025",
-    "domains": [
-      "SE & PL"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -3934,6 +3955,26 @@
     "artifact_badge": false
   },
   {
+    "title": "FSE",
+    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://conf.researchr.org/home/fse-2026",
+    "deadlines": {
+      "full_paper": "2025-09-11T23:59:00",
+      "abstract": "2025-09-04T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Montréal, Canada",
+    "date": "July 6-10, 2026",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "CHI",
     "full_name": "International Conference on Human Factors in Computing Systems",
     "rank_core": "A*",
@@ -4187,25 +4228,6 @@
     "date": "June 27-July 1, 2026",
     "domains": [
       "Systems",
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "FSE",
-    "full_name": "ACM International Conference on the Foundations of Software Engineering (was ESEC/FSE, changed 2024; duplicate previously listed as ESEC, removed from DB)",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "ACM",
-    "link": "https://fse.iacr.org/2026/",
-    "deadlines": {
-      "full_paper": "2025-11-23T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Singapore, Singapore",
-    "date": "March 23-27, 2026",
-    "domains": [
       "SE & PL"
     ],
     "open_access": false,
@@ -4568,6 +4590,25 @@
     "artifact_badge": false
   },
   {
+    "title": "EMNLP",
+    "full_name": "Empirical Methods in Natural Language Processing",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "Other",
+    "link": "https://2026.emnlp.org/",
+    "deadlines": {
+      "full_paper": "2026-05-25T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Budapest, Hungary",
+    "date": "October 24 - 29, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "WWW",
     "full_name": "International World Wide Web Conference",
     "rank_core": "A*",
@@ -4583,951 +4624,6 @@
     "domains": [
       "Data",
       "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "IC2E",
-    "full_name": "International Conference on Cloud Engineering",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192745&copyownerid=178483",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00",
-      "abstract": "2026-05-08T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Santa Clara, California, USA",
-    "date": "Oct 13, 2026 - Oct 16, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "DATA",
-    "full_name": "International Conference on Data Science, Technology and Applications",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190725&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Porto, Portugal",
-    "date": "Jul 16, 2026 - Jul 18, 2026",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICISS",
-    "full_name": "International Conference on Information Systems Security",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191349&copyownerid=13881",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "University of Cambridge, Cambridge, UK",
-    "date": "Aug 27, 2026 - Aug 29, 2026",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SOMET",
-    "full_name": "International Conference on Intelligent Software Methodologies, Tools, and Techniques (was International Conference on Software Methods and Tools)",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192923&copyownerid=108124",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Kuala Lumpur, Malaysia",
-    "date": "Sep 9, 2026 - Sep 11, 2026",
-    "domains": [
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "EKAW",
-    "full_name": "International Conference on Knowledge Engineering and Knowledge Management",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192424&copyownerid=197254",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00",
-      "abstract": "2026-05-08T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Torino, Italy",
-    "date": "Sep 29, 2026 - Oct 1, 2026",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICMLA",
-    "full_name": "International Conference on Machine Learning and Applications",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192856&copyownerid=837",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Rochester, MI",
-    "date": "Oct 5, 2026 - Oct 7, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SIMULTECH",
-    "full_name": "International Conference on Simulation and Modeling Methodologies, Technologies and Applications",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190722&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Porto, Portugal",
-    "date": "Jul 18, 2026 - Jul 20, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICSOFT",
-    "full_name": "International Conference on Software and Data Technologies",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190729&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Porto, Portugal",
-    "date": "Jul 16, 2026 - Jul 18, 2026",
-    "domains": [
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICSEA",
-    "full_name": "International Conference on Software Engineering Advances",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191320&copyownerid=13881",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Tokyo, Japan",
-    "date": "Aug 1, 2026 - Aug 3, 2026",
-    "domains": [
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SYNASC",
-    "full_name": "International Symposium on Symbolic and Numeric Algorithms for Scientific Computing",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192751&copyownerid=36926",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Timisoara",
-    "date": "Sep 14, 2026 - Sep 17, 2026",
-    "domains": [
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SSS",
-    "full_name": "Symposium on Stabilization, Safety, and Security of Distributed Systems",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192754&copyownerid=197532",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "The 28th International Symposium on Stab",
-    "date": "Oct 9, 2026 - Oct 11, 2026",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "GRAPH-HOC",
-    "full_name": "Workshop on Applications of Graph Theory in Wireless Ad hoc Networks and Sensor Networks",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192768&copyownerid=33993",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "N/A",
-    "date": "N/A",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "CSIT",
-    "full_name": "Computer Sciences and Information Technologies",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192619&copyownerid=46167",
-    "deadlines": {
-      "full_paper": "2026-05-16T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Toronto, Canada",
-    "date": "Jul 25, 2026 - Jul 26, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SEA",
-    "full_name": "International Symposium on Experimental Algorithms",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189375&copyownerid=170233",
-    "deadlines": {
-      "full_paper": "2026-05-16T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Copenhagen, Denmark",
-    "date": "Jun 27, 2026 - Jun 28, 2026",
-    "domains": [
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "PSC",
-    "full_name": "Prague Stringology Conference",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194216&copyownerid=320",
-    "deadlines": {
-      "full_paper": "2026-05-17T23:59:00",
-      "abstract": "2026-05-10T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Prague, Czech Republic",
-    "date": "Aug 24, 2026 - Aug 26, 2026",
-    "domains": [
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "EUMAS",
-    "full_name": "European Conference on Multi-Agent Systems",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195088&copyownerid=198459",
-    "deadlines": {
-      "full_paper": "2026-05-18T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "MalmÃ¶, Sweden",
-    "date": "Sep 21, 2026 - Sep 25, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ESEM",
-    "full_name": "International Symposium on Empirical Software Engineering and Measurement",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://conf.researchr.org/home/eseiw-2026",
-    "deadlines": {
-      "full_paper": "2026-05-18T23:59:00",
-      "abstract": "2026-05-11T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "München, Germany",
-    "date": "October 4 - 9, 2026",
-    "domains": [
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ADBIS",
-    "full_name": "Symposium on Advances in DB and Information Systems",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192542&copyownerid=197340",
-    "deadlines": {
-      "full_paper": "2026-05-18T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "OrlÃ©ans, France",
-    "date": "Sep 28, 2026 - Oct 1, 2026",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "CHIRA",
-    "full_name": "International Conference on Computer-Human Interaction Research and Applications",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192110&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "2026-05-19T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Angers, France",
-    "date": "Oct 26, 2026 - Oct 27, 2026",
-    "domains": [
-      "HCI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "COOPIS",
-    "full_name": "International Conference on Cooperative Information Systems",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192109&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "2026-05-19T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Angers, France",
-    "date": "Oct 26, 2026 - Oct 28, 2026",
-    "domains": [
-      "HCI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICINCO",
-    "full_name": "International Conference on Informatics in Control, Automation and Robotics",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192105&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "2026-05-19T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Angers, France",
-    "date": "Oct 26, 2026 - Oct 28, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "KEOD",
-    "full_name": "International Conference on Knowledge Engineering and Ontology Development",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191924&copyownerid=193627",
-    "deadlines": {
-      "full_paper": "2026-05-19T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Anger, France",
-    "date": "Oct 28, 2026 - Oct 30, 2026",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "WEBIST",
-    "full_name": "International Conference on Web Information Systems and Technologies",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192104&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "2026-05-19T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Angers, France",
-    "date": "Oct 27, 2026 - Oct 29, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICER",
-    "full_name": "International Computing Education Research Workshop",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193066&copyownerid=8438",
-    "deadlines": {
-      "full_paper": "2026-05-20T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Thessaloniki, Greeceâ",
-    "date": "Nov 26, 2026 - Nov 27, 2026",
-    "domains": [
-      "HCI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICCCI",
-    "full_name": "International Conference on Computational Collective Intelligence",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189855&copyownerid=13881",
-    "deadlines": {
-      "full_paper": "2026-05-20T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Okayama, Japan",
-    "date": "Jun 26, 2026 - Jun 28, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICCS",
-    "full_name": "International Conference on Computational Science",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191095&copyownerid=13881",
-    "deadlines": {
-      "full_paper": "2026-05-20T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Hangzhou, China",
-    "date": "Sep 18, 2026 - Sep 21, 2026",
-    "domains": [
-      "Interdisciplinary"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICMV",
-    "full_name": "International Conference on Machine Vision",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194144&copyownerid=13881",
-    "deadlines": {
-      "full_paper": "2026-05-20T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Budapest, Hungary",
-    "date": "Oct 15, 2026 - Oct 18, 2026",
-    "domains": [
-      "CV & Multimedia"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "AAAC",
-    "full_name": "Symposium of Asian Association for Algorithms and Computation",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191496&copyownerid=13881",
-    "deadlines": {
-      "full_paper": "2026-05-20T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Hongkong",
-    "date": "Aug 21, 2026 - Aug 23, 2026",
-    "domains": [
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "RTSS",
-    "full_name": "Real Time Systems Symposium",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "IEEE",
-    "link": "http://2026.rtss.org/",
-    "deadlines": {
-      "full_paper": "2026-05-21T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Yokohama, Japan",
-    "date": "December 9-11, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ASIACRYPT",
-    "full_name": "International Conference on the Theory and Application of Cryptology and Information Security",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://asiacrypt.iacr.org/2026/",
-    "deadlines": {
-      "full_paper": "2026-05-22T11:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Hong Kong, China",
-    "date": "December 7-11, 2026",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ACE",
-    "full_name": "ACM International Conference on Advances in Computer Entertainment (merged with DIMEA, Digital Interactive Media in Entertainment and Arts, in 2009)",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191717&copyownerid=142510",
-    "deadlines": {
-      "full_paper": "2026-05-22T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Tokyo",
-    "date": "Nov 14, 2026 - Nov 18, 2026",
-    "domains": [
-      "Graphics & AR"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICNP",
-    "full_name": "International Conference on Network Protocols",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://icnp26.cs.ucr.edu/",
-    "deadlines": {
-      "full_paper": "2026-05-22T23:59:00",
-      "abstract": "2026-05-15T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Tempe, Arizona, USA",
-    "date": "October 5-8, 2026",
-    "domains": [
-      "Networking"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "RULEML+RR",
-    "full_name": "International Joint Conference on Rules and Reasoning",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://2026.declarativeai.net/events/ruleml-rr",
-    "deadlines": {
-      "full_paper": "2026-05-22T23:59:00",
-      "abstract": "2026-05-15T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Vilnius, Lithuania",
-    "date": "August 24-26, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SBAC-PAD",
-    "full_name": "International Symposium on Computer Architecture and High Performance Computing",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191594&copyownerid=195109",
-    "deadlines": {
-      "full_paper": "2026-05-22T23:59:00",
-      "abstract": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Madrid,Spain",
-    "date": "Oct 14, 2026 - Oct 16, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "EPIA",
-    "full_name": "Portuguese Conference on Artificial Intelligence",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194559&copyownerid=198222",
-    "deadlines": {
-      "full_paper": "2026-05-22T23:59:00",
-      "abstract": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Madeira, Portugal",
-    "date": "Sep 2, 2026 - Sep 4, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "CIKM",
-    "full_name": "ACM International Conference on Information and Knowledge Management",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://cikm2026.diag.uniroma1.it/",
-    "deadlines": {
-      "full_paper": "2026-05-23T23:59:00",
-      "abstract": "2026-05-16T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Rome, Italy",
-    "date": "November 7-11, 2026",
-    "domains": [
-      "Data",
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICICS",
-    "full_name": "International Conference on Information and Communications Security",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html",
-    "deadlines": {
-      "full_paper": "2026-05-23T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Fukui, Japan",
-    "date": "October 27-30, 2026",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "AIMSA",
-    "full_name": "International Conference on Artificial Intelligence: Methodology, Systems, Applications",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192091&copyownerid=95584",
-    "deadlines": {
-      "full_paper": "2026-05-24T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Sofia, Bulgaria",
-    "date": "Oct 15, 2026 - Oct 16, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "PSD",
-    "full_name": "Privacy in Statistical Databases",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191564&copyownerid=196674",
-    "deadlines": {
-      "full_paper": "2026-05-24T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Cadiz, Spain",
-    "date": "Sep 30, 2026 - Oct 2, 2025",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "IJCNLP",
-    "full_name": "International Joint Conference on Natural Language Processing",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://2026.aaclnet.org/",
-    "deadlines": {
-      "full_paper": "2026-05-25T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Hengqin, China",
-    "date": "Nov 6-10, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ACSAC",
-    "full_name": "Annual Computer Security Applications Conference",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://www.acsac.org/",
-    "deadlines": {
-      "full_paper": "2026-05-26T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Los Angeles, California, USA",
-    "date": "December 7-11, 2026",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SEAA",
-    "full_name": "Euromicro Conference on Software Engineering and Advanced Applications",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194648&copyownerid=163220",
-    "deadlines": {
-      "full_paper": "2026-05-26T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Chengdu, China",
-    "date": "Jun 26, 2026 - Jun 28, 2026",
-    "domains": [
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "AFT",
-    "full_name": "Advances in Financial Technologies",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://aft.ifca.ai/aft26/index.html",
-    "deadlines": {
-      "full_paper": "2026-05-27T23:59:00",
-      "abstract": "2026-05-20T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "London, UK",
-    "date": "October 6-9, 2026",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "CORL",
-    "full_name": "Conference on Robot Learning",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://www.corl.org/",
-    "deadlines": {
-      "full_paper": "2026-05-28T23:59:00",
-      "abstract": "2026-05-25T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Austin, Texas, USA",
-    "date": "November 10-12, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SISY",
-    "full_name": "International Symposium on Intelligent Systems and Informatics",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192514&copyownerid=13149",
-    "deadlines": {
-      "full_paper": "2026-05-28T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Pula, Croatia",
-    "date": "Sep 23, 2026 - Sep 25, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SIGSPATIAL",
-    "full_name": "ACM International Conference on Advances in Geographic Information Systems",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://sigspatial2026.sigspatial.org/",
-    "deadlines": {
-      "full_paper": "2026-05-29T23:59:00",
-      "abstract": "2026-05-22T23:59:00"
-    },
-    "timezone": "UTC-7",
-    "place": "Riverside, CA, USA",
-    "date": "November 3-6, 2026",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "BMVC",
-    "full_name": "British Machine Vision Conference",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://bmvc2026.bmva.org/",
-    "deadlines": {
-      "full_paper": "2026-05-29T23:59:00",
-      "abstract": "2026-05-22T23:59:00"
-    },
-    "timezone": "UTC+0",
-    "place": "Lancaster, UK",
-    "date": "November 23-26, 2026",
-    "domains": [
-      "CV & Multimedia"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "PLOS",
-    "full_name": "Workshop on Programming Languages and Operating Systems",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192806&copyownerid=197566",
-    "deadlines": {
-      "full_paper": "2026-05-29T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Prague, Czechia",
-    "date": "Sep 29, 2026 - Sep 29, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICVR",
-    "full_name": "International Conference on Virtual Rehabilitation",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190793&copyownerid=13881",
-    "deadlines": {
-      "full_paper": "2026-05-30T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Cardiff University, Cardiff, UK",
-    "date": "Jul 28, 2026 - Jul 30, 2026",
-    "domains": [
-      "Interdisciplinary"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -5552,39 +4648,20 @@
     "artifact_badge": false
   },
   {
-    "title": "PROVSEC",
-    "full_name": "International Conference on Provable Security",
-    "rank_core": "C",
+    "title": "RV",
+    "full_name": "International Conference on Runtime Verification (was workshop pre 2010)",
+    "rank_core": "B",
     "is_csrankings": false,
     "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192738&copyownerid=197519",
+    "link": "https://rv2026.smithengineering.queensu.ca/",
     "deadlines": {
       "full_paper": "2026-05-31T23:59:00"
     },
-    "timezone": "UTC",
-    "place": "Queenstown, New Zealand",
-    "date": "Sep 24, 2026 - Sep 26, 2026",
+    "timezone": "AoE",
+    "place": "Kingston, Canada",
+    "date": "October 6-9, 2026",
     "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "IDEAS",
-    "full_name": "International Database Engineering and Applications Symposium",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191444&copyownerid=197415",
-    "deadlines": {
-      "full_paper": "2026-05-31T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Manchester",
-    "date": "Aug 3, 2026 - Aug 4, 2026",
-    "domains": [
-      "Data"
+      "SE & PL"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -5703,6 +4780,25 @@
     "date": "November 16-18, 2026",
     "domains": [
       "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ACML",
+    "full_name": "Asian Conference on Machine Learning",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://www.acml-conf.org/2026/",
+    "deadlines": {
+      "full_paper": "2026-06-06T23:59:00"
+    },
+    "timezone": "UTC-7",
+    "place": "Melbourne, Australia",
+    "date": "December 1-4, 2026",
+    "domains": [
+      "AI"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -6091,6 +5187,45 @@
     "date": "April 6-9, 2027",
     "domains": [
       "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICASSP",
+    "full_name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://2027.ieeeicassp.org/",
+    "deadlines": {
+      "full_paper": "2026-09-16T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Toronto, Canada",
+    "date": "May 16-21, 2027",
+    "domains": [
+      "CV & Multimedia"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "MMSYS",
+    "full_name": "ACM Multimedia Systems Conference",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://2027.acmmmsys.org",
+    "deadlines": {
+      "full_paper": "2026-09-17T23:59:00",
+      "abstract": "2026-09-10T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Ghent, Belgium",
+    "date": "March 30 - April 2, 2027",
+    "domains": [
+      "Systems"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -19111,6 +18246,704 @@
     "artifact_badge": false
   },
   {
+    "title": "IC2E",
+    "full_name": "International Conference on Cloud Engineering",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192745&copyownerid=178483",
+    "deadlines": {
+      "full_paper": "2026-05-15T23:59:00",
+      "abstract": "2026-05-08T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Santa Clara, California, USA",
+    "date": "Oct 13, 2026 - Oct 16, 2026",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "SOMET",
+    "full_name": "International Conference on Intelligent Software Methodologies, Tools, and Techniques (was International Conference on Software Methods and Tools)",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192923&copyownerid=108124",
+    "deadlines": {
+      "full_paper": "2026-05-15T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Kuala Lumpur, Malaysia",
+    "date": "Sep 9, 2026 - Sep 11, 2026",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "EKAW",
+    "full_name": "International Conference on Knowledge Engineering and Knowledge Management",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192424&copyownerid=197254",
+    "deadlines": {
+      "full_paper": "2026-05-15T23:59:00",
+      "abstract": "2026-05-08T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Torino, Italy",
+    "date": "Sep 29, 2026 - Oct 1, 2026",
+    "domains": [
+      "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICMLA",
+    "full_name": "International Conference on Machine Learning and Applications",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192856&copyownerid=837",
+    "deadlines": {
+      "full_paper": "2026-05-15T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Rochester, MI",
+    "date": "Oct 5, 2026 - Oct 7, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "SIMULTECH",
+    "full_name": "International Conference on Simulation and Modeling Methodologies, Technologies and Applications",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190722&copyownerid=45217",
+    "deadlines": {
+      "full_paper": "2026-05-15T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Porto, Portugal",
+    "date": "Jul 18, 2026 - Jul 20, 2026",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICSOFT",
+    "full_name": "International Conference on Software and Data Technologies",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190729&copyownerid=45217",
+    "deadlines": {
+      "full_paper": "2026-05-15T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Porto, Portugal",
+    "date": "Jul 16, 2026 - Jul 18, 2026",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "PSC",
+    "full_name": "Prague Stringology Conference",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194216&copyownerid=320",
+    "deadlines": {
+      "full_paper": "2026-05-17T23:59:00",
+      "abstract": "2026-05-10T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Prague, Czech Republic",
+    "date": "Aug 24, 2026 - Aug 26, 2026",
+    "domains": [
+      "Theory"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "EUMAS",
+    "full_name": "European Conference on Multi-Agent Systems",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195088&copyownerid=198459",
+    "deadlines": {
+      "full_paper": "2026-05-18T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "MalmÃ¶, Sweden",
+    "date": "Sep 21, 2026 - Sep 25, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ESEM",
+    "full_name": "International Symposium on Empirical Software Engineering and Measurement",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://conf.researchr.org/home/eseiw-2026",
+    "deadlines": {
+      "full_paper": "2026-05-18T23:59:00",
+      "abstract": "2026-05-11T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "München, Germany",
+    "date": "October 4 - 9, 2026",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ADBIS",
+    "full_name": "Symposium on Advances in DB and Information Systems",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192542&copyownerid=197340",
+    "deadlines": {
+      "full_paper": "2026-05-18T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "OrlÃ©ans, France",
+    "date": "Sep 28, 2026 - Oct 1, 2026",
+    "domains": [
+      "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "COOPIS",
+    "full_name": "International Conference on Cooperative Information Systems",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192830&copyownerid=17224",
+    "deadlines": {
+      "full_paper": "2026-05-19T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Angers, France",
+    "date": "Oct 26, 2026 - Oct 28, 2026",
+    "domains": [
+      "HCI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "KEOD",
+    "full_name": "International Conference on Knowledge Engineering and Ontology Development",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191924&copyownerid=193627",
+    "deadlines": {
+      "full_paper": "2026-05-19T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Anger, France",
+    "date": "Oct 28, 2026 - Oct 30, 2026",
+    "domains": [
+      "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICER",
+    "full_name": "International Computing Education Research Workshop",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=193066&copyownerid=8438",
+    "deadlines": {
+      "full_paper": "2026-05-20T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Thessaloniki, Greeceâ",
+    "date": "Nov 26, 2026 - Nov 27, 2026",
+    "domains": [
+      "HCI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "RTSS",
+    "full_name": "Real Time Systems Symposium",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "IEEE",
+    "link": "http://2026.rtss.org/",
+    "deadlines": {
+      "full_paper": "2026-05-21T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Yokohama, Japan",
+    "date": "December 9-11, 2026",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ASIACRYPT",
+    "full_name": "International Conference on the Theory and Application of Cryptology and Information Security",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://asiacrypt.iacr.org/2026/",
+    "deadlines": {
+      "full_paper": "2026-05-22T11:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Hong Kong, China",
+    "date": "December 7-11, 2026",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ACE",
+    "full_name": "ACM International Conference on Advances in Computer Entertainment (merged with DIMEA, Digital Interactive Media in Entertainment and Arts, in 2009)",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191717&copyownerid=142510",
+    "deadlines": {
+      "full_paper": "2026-05-22T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Tokyo",
+    "date": "Nov 14, 2026 - Nov 18, 2026",
+    "domains": [
+      "Graphics & AR"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "SST",
+    "full_name": "Australasian Speech Science and Technology",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195453&copyownerid=13149",
+    "deadlines": {
+      "full_paper": "2026-05-22T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Osijek, Croatia",
+    "date": "Oct 28, 2026 - Oct 30, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICNP",
+    "full_name": "International Conference on Network Protocols",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://icnp26.cs.ucr.edu/",
+    "deadlines": {
+      "full_paper": "2026-05-22T23:59:00",
+      "abstract": "2026-05-15T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Tempe, Arizona, USA",
+    "date": "October 5-8, 2026",
+    "domains": [
+      "Networking"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "RULEML+RR",
+    "full_name": "International Joint Conference on Rules and Reasoning",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://2026.declarativeai.net/events/ruleml-rr",
+    "deadlines": {
+      "full_paper": "2026-05-22T23:59:00",
+      "abstract": "2026-05-15T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Vilnius, Lithuania",
+    "date": "August 24-26, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "SBAC-PAD",
+    "full_name": "International Symposium on Computer Architecture and High Performance Computing",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191594&copyownerid=195109",
+    "deadlines": {
+      "full_paper": "2026-05-22T23:59:00",
+      "abstract": "2026-05-15T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Madrid,Spain",
+    "date": "Oct 14, 2026 - Oct 16, 2026",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "EPIA",
+    "full_name": "Portuguese Conference on Artificial Intelligence",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=194559&copyownerid=198222",
+    "deadlines": {
+      "full_paper": "2026-05-22T23:59:00",
+      "abstract": "2026-05-15T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Madeira, Portugal",
+    "date": "Sep 2, 2026 - Sep 4, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "CIKM",
+    "full_name": "ACM International Conference on Information and Knowledge Management",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://cikm2026.diag.uniroma1.it/",
+    "deadlines": {
+      "full_paper": "2026-05-23T23:59:00",
+      "abstract": "2026-05-16T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Rome, Italy",
+    "date": "November 7-11, 2026",
+    "domains": [
+      "Data",
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICICS",
+    "full_name": "International Conference on Information and Communications Security",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://sulab-sever.u-aizu.ac.jp/icics2026/cfp.html",
+    "deadlines": {
+      "full_paper": "2026-05-23T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Fukui, Japan",
+    "date": "October 27-30, 2026",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "PSD",
+    "full_name": "Privacy in Statistical Databases",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191564&copyownerid=196674",
+    "deadlines": {
+      "full_paper": "2026-05-24T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Cadiz, Spain",
+    "date": "Sep 30, 2026 - Oct 2, 2025",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "IJCNLP",
+    "full_name": "International Joint Conference on Natural Language Processing",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://2026.aaclnet.org/",
+    "deadlines": {
+      "full_paper": "2026-05-25T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Hengqin, China",
+    "date": "Nov 6-10, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ACSAC",
+    "full_name": "Annual Computer Security Applications Conference",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://www.acsac.org/",
+    "deadlines": {
+      "full_paper": "2026-05-26T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Los Angeles, California, USA",
+    "date": "December 7-11, 2026",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "AFT",
+    "full_name": "Advances in Financial Technologies",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://aft.ifca.ai/aft26/index.html",
+    "deadlines": {
+      "full_paper": "2026-05-27T23:59:00",
+      "abstract": "2026-05-20T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "London, UK",
+    "date": "October 6-9, 2026",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "CORL",
+    "full_name": "Conference on Robot Learning",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://www.corl.org/",
+    "deadlines": {
+      "full_paper": "2026-05-28T23:59:00",
+      "abstract": "2026-05-25T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Austin, Texas, USA",
+    "date": "November 10-12, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "SISY",
+    "full_name": "International Symposium on Intelligent Systems and Informatics",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192514&copyownerid=13149",
+    "deadlines": {
+      "full_paper": "2026-05-28T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Pula, Croatia",
+    "date": "Sep 23, 2026 - Sep 25, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "SIGSPATIAL",
+    "full_name": "ACM International Conference on Advances in Geographic Information Systems",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://sigspatial2026.sigspatial.org/",
+    "deadlines": {
+      "full_paper": "2026-05-29T23:59:00",
+      "abstract": "2026-05-22T23:59:00"
+    },
+    "timezone": "UTC-7",
+    "place": "Riverside, CA, USA",
+    "date": "November 3-6, 2026",
+    "domains": [
+      "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "BMVC",
+    "full_name": "British Machine Vision Conference",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://bmvc2026.bmva.org/",
+    "deadlines": {
+      "full_paper": "2026-05-29T23:59:00",
+      "abstract": "2026-05-22T23:59:00"
+    },
+    "timezone": "UTC+0",
+    "place": "Lancaster, UK",
+    "date": "November 23-26, 2026",
+    "domains": [
+      "CV & Multimedia"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "HEALTHCOM",
+    "full_name": "IEEE international conference on ehealth networking applications and services (was International Workshop on Enterprise Networking and Computing in Health Care Industry; changed 2006)",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195458&copyownerid=198786",
+    "deadlines": {
+      "full_paper": "2026-05-29T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "New York City",
+    "date": "Oct 19, 2026 - Oct 21, 2026",
+    "domains": [
+      "Interdisciplinary"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "PLOS",
+    "full_name": "Workshop on Programming Languages and Operating Systems",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192806&copyownerid=197566",
+    "deadlines": {
+      "full_paper": "2026-05-29T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Prague, Czechia",
+    "date": "Sep 29, 2026 - Sep 29, 2026",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "INISTA",
+    "full_name": "International Symposium on Innovations in Intelligent Systems and Applications",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=195446&copyownerid=13149",
+    "deadlines": {
+      "full_paper": "2026-05-30T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Guimaraes, Portugal",
+    "date": "Sep 17, 2026 - Sep 19, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "PROVSEC",
+    "full_name": "International Conference on Provable Security",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192738&copyownerid=197519",
+    "deadlines": {
+      "full_paper": "2026-05-31T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Queenstown, New Zealand",
+    "date": "Sep 24, 2026 - Sep 26, 2026",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "IDEAS",
+    "full_name": "International Database Engineering and Applications Symposium",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191444&copyownerid=197415",
+    "deadlines": {
+      "full_paper": "2026-05-31T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Manchester",
+    "date": "Aug 3, 2026 - Aug 4, 2026",
+    "domains": [
+      "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "IEEE VR",
     "full_name": "IEEE Conference on Virtual Reality and 3D User Interfaces",
     "rank_core": "A*",
@@ -19168,25 +19001,6 @@
     "artifact_badge": false
   },
   {
-    "title": "MMSYS",
-    "full_name": "ACM Multimedia Systems Conference",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://2027.acmmmsys.org",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "AoE",
-    "place": "Ghent, Belgium",
-    "date": "March 30 - April 2, 2027",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
     "title": "SANER",
     "full_name": "IEEE International Conference on Software Analysis, Evolution and Reengineering",
     "rank_core": "A",
@@ -19206,215 +19020,6 @@
     "artifact_badge": false
   },
   {
-    "title": "ICASSP",
-    "full_name": "IEEE International Conference on Acoustics, Speech and Signal Processing",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://2027.ieeeicassp.org/",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC-12",
-    "place": "Toronto, Canada",
-    "date": "May 16-21, 2027",
-    "domains": [
-      "CV & Multimedia"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "CSEDU",
-    "full_name": "International Conference on Computer Supported Education",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190011&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Benidorm, Spain",
-    "date": "May 18, 2026 - May 20, 2026",
-    "domains": [
-      "HCI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "VEHITS",
-    "full_name": "International Conference on Vehicle Technology and Intelligent Transport Systems",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190007&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Benidorm, Spain",
-    "date": "May 18, 2026 - May 20, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICFEC",
-    "full_name": "IEEE International Conference on Fog and Edge Computing",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190126&copyownerid=86190",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Sydney, Australia",
-    "date": "May 18, 2026 - May 21, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "FUN",
-    "full_name": "Conference on Fun with Algorithms",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192237&copyownerid=35838",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Porquerolles, France",
-    "date": "May 18, 2026 - May 22, 2026",
-    "domains": [
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "CLOSER",
-    "full_name": "International Conference on Cloud Computing and Services Science",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190010&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Benidorm, Spain",
-    "date": "May 19, 2026 - May 21, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICT4AWE",
-    "full_name": "International Conference on Information and Communication Technologies for Ageing Well and e-Health",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190004&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Benidorm, Spain",
-    "date": "May 20, 2026 - May 22, 2026",
-    "domains": [
-      "Interdisciplinary"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "IOTBDS",
-    "full_name": "International Conference on Internet of Things, Big Data and Security",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190005&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Benidorm, Spain",
-    "date": "May 21, 2026 - May 23, 2026",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ENASE",
-    "full_name": "International Conference on Evaluation of Novel Approaches to Software Engineering",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190006&copyownerid=45217",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Benidorm, Spain",
-    "date": "May 22, 2026 - May 24, 2026",
-    "domains": [
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "IPEC",
-    "full_name": "International Symposium on Parameterized and Exact Computation (was IWPEC pre 2004)",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192787&copyownerid=197560",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Dalian, China",
-    "date": "May 22, 2026 - May 24, 2026",
-    "domains": [
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ACHI",
-    "full_name": "International Conference on Advances in Computer-Human Interactions",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190199&copyownerid=83510",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Venice, Italy",
-    "date": "May 24, 2026 - May 28, 2026",
-    "domains": [
-      "HCI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
     "title": "SACI",
     "full_name": "International Symposium on Applied Computational Intelligence and Informatics",
     "rank_core": "Unranked",
@@ -19429,82 +19034,6 @@
     "date": "May 24, 2027 - May 29, 2027",
     "domains": [
       "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "COINE",
-    "full_name": "International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (Ethics added 2020)",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191229&copyownerid=188703",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Paphos, Cyprus",
-    "date": "May 25, 2026 - May 25, 2025",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "WSCG",
-    "full_name": "International Conferences in Central Europe on Computer Graphics, Visualization and Computer Vision",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=190976&copyownerid=118352",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Pilsen, Czech Republic",
-    "date": "May 26, 2026 - May 28, 2026",
-    "domains": [
-      "Graphics & AR"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "FLOPS",
-    "full_name": "International Symposium on Functional and Logic Programming",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=189603&copyownerid=68693",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Akita, Japan",
-    "date": "May 26, 2026 - May 28, 2026",
-    "domains": [
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ISORC",
-    "full_name": "IEEE International Symposium on Real-Time Distributed Computing",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191073&copyownerid=180415",
-    "deadlines": {
-      "full_paper": "TBD"
-    },
-    "timezone": "UTC",
-    "place": "Hamilton, Canada",
-    "date": "May 27, 2026 - May 29, 2026",
-    "domains": [
-      "Systems"
     ],
     "open_access": false,
     "artifact_badge": false
