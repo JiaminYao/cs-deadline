@@ -1,84 +1,5 @@
 [
   {
-    "title": "ICSE",
-    "full_name": "International Conference on Software Engineering",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "ACM",
-    "link": "https://conf.researchr.org/home/icse-2027",
-    "deadlines": {
-      "full_paper": "2026-06-30T23:59:00",
-      "abstract": "2026-06-23T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Dublin, Ireland",
-    "date": "April 25-May 01, 2027",
-    "domains": [
-      "SE & PL"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "VLDB",
-    "full_name": "International Conference on Very Large Databases",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "Other",
-    "link": "https://www.vldb.org/2027/",
-    "deadlines": {
-      "full_paper": "2026-07-01T17:00:00",
-      "abstract": "2026-06-25T17:00:00"
-    },
-    "timezone": "PT",
-    "place": "Athens, Greece",
-    "date": "August 23 - August 27, 2027",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "POPL",
-    "full_name": "ACM-SIGACT Symposium on Principles of Programming Languages",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "ACM",
-    "link": "https://popl27.sigplan.org/",
-    "deadlines": {
-      "full_paper": "2026-07-09T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Mexico City",
-    "date": "January 10-16, 2027",
-    "domains": [
-      "SE & PL",
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SODA",
-    "full_name": "ACM/SIAM Symposium on Discrete Algorithms",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "ACM",
-    "link": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
-    "deadlines": {
-      "full_paper": "2026-07-09T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Philadelphia, Pennsylvania, USA",
-    "date": "January 24-27, 2027",
-    "domains": [
-      "Theory"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
     "title": "SIGMOD",
     "full_name": "ACM Special Interest Group on Management of Data Conference",
     "rank_core": "A*",
@@ -106,8 +27,8 @@
     "organizer": "Other",
     "link": "https://aaai.org/conference/aaai/aaai-27/",
     "deadlines": {
-      "full_paper": "2026-07-27T23:59:00",
-      "abstract": "2026-07-20T23:59:00"
+      "full_paper": "2026-07-28T23:59:00",
+      "abstract": "2026-07-21T23:59:00"
     },
     "timezone": "UTC-12",
     "place": "Montréal, Québec, Canada",
@@ -135,6 +56,26 @@
     "domains": [
       "Systems",
       "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "VLDB",
+    "full_name": "International Conference on Very Large Databases",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "Other",
+    "link": "https://www.vldb.org/2027/",
+    "deadlines": {
+      "full_paper": "2026-08-01T17:00:00",
+      "abstract": "2026-07-25T17:00:00"
+    },
+    "timezone": "PT",
+    "place": "Athens, Greece",
+    "date": "August 23 - August 27, 2027",
+    "domains": [
+      "Data"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -294,6 +235,27 @@
     "date": "July 12-16, 2027",
     "domains": [
       "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "WWW",
+    "full_name": "International World Wide Web Conference",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://acmweb2027.org/",
+    "deadlines": {
+      "full_paper": "2026-10-18T23:59:00",
+      "abstract": "2026-10-11T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Dublin, Ireland",
+    "date": "May 10 - 14, 2027",
+    "domains": [
+      "Data",
+      "AI"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -4650,153 +4612,19 @@
     "artifact_badge": false
   },
   {
-    "title": "WWW",
-    "full_name": "International World Wide Web Conference",
+    "title": "ICSE",
+    "full_name": "International Conference on Software Engineering",
     "rank_core": "A*",
     "is_csrankings": true,
     "organizer": "ACM",
-    "link": "https://www2027.thewebconf.org/",
+    "link": "https://conf.researchr.org/home/icse-2027",
     "deadlines": {
-      "full_paper": "TBD"
+      "full_paper": "2026-06-30T23:59:00",
+      "abstract": "2026-06-23T23:59:00"
     },
     "timezone": "AoE",
     "place": "Dublin, Ireland",
-    "date": "TBD",
-    "domains": [
-      "Data",
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICPADS",
-    "full_name": "International Conference on Parallel and Distributed Systems",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://www.cloud-conf.net/icpads2026",
-    "deadlines": {
-      "full_paper": "2026-06-30T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Tokyo, Japan",
-    "date": "November 22-26 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICTAI",
-    "full_name": "International Conference on Tools with Artificial Intelligence",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://ictai.computer.org/2026/",
-    "deadlines": {
-      "full_paper": "2026-06-30T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Boca Raton FL, USA",
-    "date": "November 02-04, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "INSCRYPT",
-    "full_name": "SKLOIS Conference on Information Security and Cryptology",
-    "rank_core": "Unranked",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://inscrypt2026.comp.polyu.edu.hk",
-    "deadlines": {
-      "full_paper": "2026-07-01T23:59:00"
-    },
-    "timezone": "UTC-8",
-    "place": "Hong Kong SAR, China",
-    "date": "Nov 07-09, 2026",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SIGCSE",
-    "full_name": "ACM Special Interest Group on Computer Science Education Conference",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "ACM",
-    "link": "https://2027.sigcse-ts.acm.org/",
-    "deadlines": {
-      "full_paper": "2026-07-03T23:59:00",
-      "abstract": "2026-06-26T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Sacramento, California, USA",
-    "date": "February 17-20, 2027",
-    "domains": [
-      "HCI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ACCV",
-    "full_name": "Asian Conference on Computer Vision",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://accv2026.org/",
-    "deadlines": {
-      "full_paper": "2026-07-05T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Osaka, Japan",
-    "date": "December 14-18, 2026",
-    "domains": [
-      "CV & Multimedia"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ACML",
-    "full_name": "Asian Conference on Machine Learning",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://www.acml-conf.org/2026/",
-    "deadlines": {
-      "full_paper": "2026-07-05T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Melbourne, Australia",
-    "date": "December 1-4, 2026",
-    "domains": [
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICECCS",
-    "full_name": "IEEE International Conference on Engineering of Complex Computer Systems",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://formal-analysis.com/iceccs/2026/",
-    "deadlines": {
-      "full_paper": "2026-07-06T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Brisbane, Australia",
-    "date": "November 23-24, 2026",
+    "date": "April 25-May 01, 2027",
     "domains": [
       "SE & PL"
     ],
@@ -4804,40 +4632,40 @@
     "artifact_badge": false
   },
   {
-    "title": "ICA3PP",
-    "full_name": "International Conference on Algorithms and Architectures for Parallel Processing",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://hpcn.exeter.ac.uk/ica3pp2026/",
-    "deadlines": {
-      "full_paper": "2026-07-10T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Exeter, UK",
-    "date": "October 26-28, 2026",
-    "domains": [
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "SIGMETRICS",
-    "full_name": "Measurement and Modeling of Computer Systems",
+    "title": "POPL",
+    "full_name": "ACM-SIGACT Symposium on Principles of Programming Languages",
     "rank_core": "A*",
-    "is_csrankings": false,
+    "is_csrankings": true,
     "organizer": "ACM",
-    "link": "https://www.sigmetrics.org/sigmetrics2027/",
+    "link": "https://popl27.sigplan.org/",
     "deadlines": {
-      "full_paper": "2026-07-10T23:59:00",
-      "abstract": "2026-07-03T23:59:00"
+      "full_paper": "2026-07-09T23:59:00"
     },
     "timezone": "AoE",
-    "place": "Atlanta, Georgia, USA",
-    "date": "June 7-11, 2027",
+    "place": "Mexico City",
+    "date": "January 10-16, 2027",
     "domains": [
-      "SE & PL"
+      "SE & PL",
+      "Theory"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "SODA",
+    "full_name": "ACM/SIAM Symposium on Discrete Algorithms",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://www.siam.org/conferences-events/siam-conferences/soda27/",
+    "deadlines": {
+      "full_paper": "2026-07-09T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Philadelphia, Pennsylvania, USA",
+    "date": "January 24-27, 2027",
+    "domains": [
+      "Theory"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -4881,6 +4709,25 @@
     "artifact_badge": false
   },
   {
+    "title": "ICECCS",
+    "full_name": "IEEE International Conference on Engineering of Complex Computer Systems",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://formal-analysis.com/iceccs/2026/",
+    "deadlines": {
+      "full_paper": "2026-07-20T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Brisbane, Australia",
+    "date": "November 23-24, 2026",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "ISS",
     "full_name": "ACM International Conference on Interactive Surfaces and Spaces (was International Workshop on Horizontal Interactive Human-Computer Systems: Tabletop)",
     "rank_core": "Unranked",
@@ -4895,6 +4742,25 @@
     "date": "November 23-26, 2026",
     "domains": [
       "HCI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICA3PP",
+    "full_name": "International Conference on Algorithms and Architectures for Parallel Processing",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://hpcn.exeter.ac.uk/ica3pp2026/",
+    "deadlines": {
+      "full_paper": "2026-07-25T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Exeter, UK",
+    "date": "October 26-28, 2026",
+    "domains": [
+      "Systems"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -4934,6 +4800,25 @@
     "date": "March 9-14, 2027",
     "domains": [
       "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "PPOPP",
+    "full_name": "Principles and Practice of Parallel Programming",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://ppopp27.sigplan.org/",
+    "deadlines": {
+      "full_paper": "2026-08-03T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Salt Lake City, Utah, USA",
+    "date": "Mar 20-24, 2027",
+    "domains": [
+      "Systems"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -5310,6 +5195,26 @@
     "artifact_badge": false
   },
   {
+    "title": "ECIR",
+    "full_name": "European Conference on Information Retrieval",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://ecir2027.co.uk/",
+    "deadlines": {
+      "full_paper": "2026-10-02T23:59:00",
+      "abstract": "2026-09-25T23:59:00"
+    },
+    "timezone": "UTC+0",
+    "place": "Southampton, UK",
+    "date": "March 21-25, 2027",
+    "domains": [
+      "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "EDBT",
     "full_name": "Extending Database Technology",
     "rank_core": "B",
@@ -5349,6 +5254,26 @@
     "artifact_badge": false
   },
   {
+    "title": "SIGMETRICS",
+    "full_name": "Measurement and Modeling of Computer Systems",
+    "rank_core": "A*",
+    "is_csrankings": false,
+    "organizer": "ACM",
+    "link": "https://www.sigmetrics.org/sigmetrics2027/",
+    "deadlines": {
+      "full_paper": "2026-10-09T23:59:00",
+      "abstract": "2026-10-02T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Atlanta, Georgia, USA",
+    "date": "June 7-11, 2027",
+    "domains": [
+      "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "ISCAS",
     "full_name": "IEEE International Symposium on Circuits and Systems",
     "rank_core": "C",
@@ -5383,6 +5308,64 @@
     "date": "April 12-15, 2027",
     "domains": [
       "SE & PL"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "DSN",
+    "full_name": "IEEE/IFIP International Conference on Dependable Systems and Networks",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "IEEE",
+    "link": "https://dsn2027-berlin.github.io/",
+    "deadlines": {
+      "full_paper": "2026-12-02T23:59:00",
+      "abstract": "2026-11-25T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Berlin, Germany",
+    "date": "June 22-25, 2027",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "IJCNN",
+    "full_name": "IEEE International Joint Conference on Neural Networks",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://ijcnn.org/2027",
+    "deadlines": {
+      "full_paper": "2027-01-31T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Cape Town, South Africa",
+    "date": "June 14 - 18, 2027",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICITA",
+    "full_name": "International Conference on Information Technology and Applications",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=188646&copyownerid=49144",
+    "deadlines": {
+      "full_paper": "2027-05-05T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "Sydney, Australia",
+    "date": "Jul 5, 2027 - Jul 7, 2027",
+    "domains": [
+      "Interdisciplinary"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -11287,7 +11270,7 @@
     "rank_core": "A",
     "is_csrankings": false,
     "organizer": "Other",
-    "link": "https://ecir2025.eu/key-dates/",
+    "link": "https://ecir2025.eu/",
     "deadlines": {
       "full_paper": "2024-10-09T23:59:00",
       "abstract": "2024-10-02T23:59:00"
@@ -13613,25 +13596,6 @@
     "date": "September 2-5, 2025",
     "domains": [
       "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "DSAA",
-    "full_name": "IEEE International Conference on Data Science and Advanced Analytics",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178049&copyownerid=13149",
-    "deadlines": {
-      "full_paper": "2025-05-02T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Birmingham, United Kingdom",
-    "date": "Oct 9, 2025 - Oct 13, 2025",
-    "domains": [
-      "Data"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -17964,25 +17928,6 @@
     "artifact_badge": false
   },
   {
-    "title": "DSAA",
-    "full_name": "IEEE International Conference on Data Science and Advanced Analytics",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192854&copyownerid=837",
-    "deadlines": {
-      "full_paper": "2026-05-01T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "New Delhi, India",
-    "date": "Oct 6, 2026 - Oct 9, 2026",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
     "title": "COLLABORATECOM",
     "full_name": "International Conference on Collaborative Computing: Networks, Applications and Worksharing",
     "rank_core": "C",
@@ -18405,6 +18350,26 @@
     "artifact_badge": false
   },
   {
+    "title": "GD",
+    "full_name": "Graph Drawing",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=201260&copyownerid=182219",
+    "deadlines": {
+      "full_paper": "2026-05-13T23:59:00",
+      "abstract": "2026-05-06T23:59:00"
+    },
+    "timezone": "UTC",
+    "place": "St. Catharines, Ontario, Canada",
+    "date": "Aug 17, 2026 - Aug 21, 2026",
+    "domains": [
+      "Theory"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "COG",
     "full_name": "Conference on Games (was Computational Intelligence and Games CIG)",
     "rank_core": "C",
@@ -18497,25 +18462,6 @@
     "date": "Sep 29, 2026 - Oct 1, 2026",
     "domains": [
       "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ICMLA",
-    "full_name": "International Conference on Machine Learning and Applications",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=192856&copyownerid=837",
-    "deadlines": {
-      "full_paper": "2026-05-15T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Rochester, MI",
-    "date": "Oct 5, 2026 - Oct 7, 2026",
-    "domains": [
-      "AI"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -19180,25 +19126,6 @@
     "artifact_badge": false
   },
   {
-    "title": "IDEAS",
-    "full_name": "International Database Engineering and Applications Symposium",
-    "rank_core": "C",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=191444&copyownerid=197415",
-    "deadlines": {
-      "full_paper": "2026-05-31T23:59:00"
-    },
-    "timezone": "UTC",
-    "place": "Manchester",
-    "date": "Aug 3, 2026 - Aug 4, 2026",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
     "title": "SCA",
     "full_name": "ACM SIGGRAPH/Eurographics Symposium on Computer Animation",
     "rank_core": "B",
@@ -19446,6 +19373,140 @@
     "timezone": "UTC-12",
     "place": "Guangzhou, China",
     "date": "Nov 17-20, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICPADS",
+    "full_name": "International Conference on Parallel and Distributed Systems",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://www.cloud-conf.net/icpads2026",
+    "deadlines": {
+      "full_paper": "2026-06-30T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Tokyo, Japan",
+    "date": "November 22-26 2026",
+    "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ICTAI",
+    "full_name": "International Conference on Tools with Artificial Intelligence",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://ictai.computer.org/2026/",
+    "deadlines": {
+      "full_paper": "2026-06-30T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Boca Raton FL, USA",
+    "date": "November 02-04, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "INSCRYPT",
+    "full_name": "SKLOIS Conference on Information Security and Cryptology",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://inscrypt2026.comp.polyu.edu.hk",
+    "deadlines": {
+      "full_paper": "2026-07-01T23:59:00"
+    },
+    "timezone": "UTC-8",
+    "place": "Hong Kong SAR, China",
+    "date": "Nov 07-09, 2026",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "SIGCSE",
+    "full_name": "ACM Special Interest Group on Computer Science Education Conference",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "ACM",
+    "link": "https://2027.sigcse-ts.acm.org/",
+    "deadlines": {
+      "full_paper": "2026-07-03T23:59:00",
+      "abstract": "2026-06-26T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Sacramento, California, USA",
+    "date": "February 17-20, 2027",
+    "domains": [
+      "HCI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ACCV",
+    "full_name": "Asian Conference on Computer Vision",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://accv2026.org/",
+    "deadlines": {
+      "full_paper": "2026-07-05T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Osaka, Japan",
+    "date": "December 14-18, 2026",
+    "domains": [
+      "CV & Multimedia"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ACML",
+    "full_name": "Asian Conference on Machine Learning",
+    "rank_core": "C",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://www.acml-conf.org/2026/",
+    "deadlines": {
+      "full_paper": "2026-07-05T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Melbourne, Australia",
+    "date": "December 1-4, 2026",
+    "domains": [
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "FLAIRS",
+    "full_name": "Florida Artificial Intelligence Research Society Conference",
+    "rank_core": "Unranked",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=200070&copyownerid=199204",
+    "deadlines": {
+      "full_paper": "TBD"
+    },
+    "timezone": "UTC",
+    "place": "St. Pete Beach, FL, USA",
+    "date": "May 24, 2027 - May 27, 2027",
     "domains": [
       "AI"
     ],
