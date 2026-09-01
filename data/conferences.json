@@ -1,46 +1,5 @@
 [
   {
-    "title": "NDSS",
-    "full_name": "Usenix Network and Distributed System Security Symposium",
-    "rank_core": "A*",
-    "is_csrankings": true,
-    "organizer": "Other",
-    "link": "https://www.ndss-symposium.org/ndss2027/",
-    "deadlines": {
-      "full_paper": "2026-08-19T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Seoul, Republic of Korea",
-    "date": "March 22 - March 26, 2027",
-    "domains": [
-      "Security",
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "WSDM",
-    "full_name": "ACM International Conference on Web Search and Data Mining",
-    "rank_core": "A",
-    "is_csrankings": true,
-    "organizer": "ACM",
-    "link": "https://wsdm-conference.org/2027/",
-    "deadlines": {
-      "full_paper": "2026-08-24T23:59:00",
-      "abstract": "2026-08-17T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Cordis, Hong Kong SAR, China",
-    "date": "February 15 - 19, 2027",
-    "domains": [
-      "Data",
-      "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
     "title": "VLDB",
     "full_name": "International Conference on Very Large Databases",
     "rank_core": "A*",
@@ -317,6 +276,26 @@
     "artifact_badge": false
   },
   {
+    "title": "WSDM",
+    "full_name": "ACM International Conference on Web Search and Data Mining",
+    "rank_core": "A",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://wsdm-conference.org/2027/",
+    "deadlines": {
+      "full_paper": "2026-11-17T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Cordis, Hong Kong SAR, China",
+    "date": "February 15 - 19, 2027",
+    "domains": [
+      "Data",
+      "AI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "OSDI",
     "full_name": "Usenix Symposium on Operating Systems Design and Implementation",
     "rank_core": "A*",
@@ -332,6 +311,26 @@
     "date": "July 7-9, 2027",
     "domains": [
       "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ISSTA",
+    "full_name": "International Symposium on Software Testing and Analysis",
+    "rank_core": "A",
+    "is_csrankings": true,
+    "organizer": "ACM",
+    "link": "https://conf.researchr.org/home/issta-2027",
+    "deadlines": {
+      "full_paper": "2027-01-11T23:59:00",
+      "abstract": "2027-01-08T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Singapore",
+    "date": "September 7-10, 2027",
+    "domains": [
+      "SE & PL"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -4748,6 +4747,26 @@
     "artifact_badge": false
   },
   {
+    "title": "NDSS",
+    "full_name": "Usenix Network and Distributed System Security Symposium",
+    "rank_core": "A*",
+    "is_csrankings": true,
+    "organizer": "Other",
+    "link": "https://www.ndss-symposium.org/ndss2027/",
+    "deadlines": {
+      "full_paper": "2026-08-19T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Seoul, Republic of Korea",
+    "date": "March 22 - March 26, 2027",
+    "domains": [
+      "Security",
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
     "title": "ACL",
     "full_name": "Association for Computational Linguistics",
     "rank_core": "A*",
@@ -4762,143 +4781,6 @@
     "date": "August 17-22, 2027",
     "domains": [
       "AI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "MMM",
-    "full_name": "International Conference on Multimedia Modelling",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://www.mmm2027.net/",
-    "deadlines": {
-      "full_paper": "2026-08-16T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Siem Reap, Cambodia",
-    "date": "January 5-8, 2027",
-    "domains": [
-      "CV & Multimedia"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "PKC",
-    "full_name": "International Conference on Practice and Theory in Public Key Cryptography",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://pkc.iacr.org/2027/",
-    "deadlines": {
-      "full_paper": "2026-08-16T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Taipei, Taiwan",
-    "date": "March 1-4, 2027",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "IUI",
-    "full_name": "International Conference on Intelligent User Interfaces",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://iui.hosting.acm.org/2027/",
-    "deadlines": {
-      "full_paper": "2026-08-20T23:59:00",
-      "abstract": "2026-08-13T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Helsinki, Finland",
-    "date": "February 8-11, 2027",
-    "domains": [
-      "HCI"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "ASIACCS",
-    "full_name": "Asia Conference on Information, Computer and Communications Security",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://asiaccs2027.cityu.edu.mo/index.html",
-    "deadlines": {
-      "full_paper": "2026-08-21T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Macau, China",
-    "date": "July 12-16, 2027",
-    "domains": [
-      "Security"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "BIGDATA",
-    "full_name": "IEEE International Conference on Big Data",
-    "rank_core": "B",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://bigdataieee.org/BigData2026/",
-    "deadlines": {
-      "full_paper": "2026-08-21T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Phoenix, Arizona, United State",
-    "date": "December 14-17, 2026",
-    "domains": [
-      "Data"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "USENIX SECURITY",
-    "full_name": "Usenix Security Symposium",
-    "rank_core": "A*",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://www.usenix.org/conference/usenixsecurity27",
-    "deadlines": {
-      "full_paper": "2026-08-25T23:59:00",
-      "abstract": "2026-08-18T23:59:00"
-    },
-    "timezone": "UTC-12",
-    "place": "Denver, CO, USA",
-    "date": "August 11-13, 2027",
-    "domains": [
-      "Security",
-      "Systems"
-    ],
-    "open_access": false,
-    "artifact_badge": false
-  },
-  {
-    "title": "WACV",
-    "full_name": "IEEE Workshop on Applications of Computer Vision",
-    "rank_core": "A",
-    "is_csrankings": false,
-    "organizer": "Other",
-    "link": "https://wacv.thecvf.com/",
-    "deadlines": {
-      "full_paper": "2026-08-28T23:59:00",
-      "abstract": "2026-08-21T23:59:00"
-    },
-    "timezone": "AoE",
-    "place": "Disney Springs, Buena Vista, FL, USA",
-    "date": "Jan 5 - 9, 2027",
-    "domains": [
-      "CV & Multimedia"
     ],
     "open_access": false,
     "artifact_badge": false
@@ -5520,6 +5402,46 @@
     "place": "Berlin, Germany",
     "date": "June 22-25, 2027",
     "domains": [
+      "Systems"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "ASIACCS",
+    "full_name": "Asia Conference on Information, Computer and Communications Security",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://asiaccs2027.cityu.edu.mo/index.html",
+    "deadlines": {
+      "full_paper": "2026-12-11T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Macau, China",
+    "date": "July 12-16, 2027",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "USENIX SECURITY",
+    "full_name": "Usenix Security Symposium",
+    "rank_core": "A*",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://www.usenix.org/conference/usenixsecurity27",
+    "deadlines": {
+      "full_paper": "2027-01-26T23:59:00",
+      "abstract": "2027-01-19T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Denver, CO, USA",
+    "date": "August 11-13, 2027",
+    "domains": [
+      "Security",
       "Systems"
     ],
     "open_access": false,
@@ -19506,7 +19428,7 @@
     },
     "timezone": "AoE",
     "place": "New York, USA",
-    "date": "2027",
+    "date": "May 17-20, 2027",
     "domains": [
       "Networking",
       "Systems"
@@ -19993,6 +19915,103 @@
     "date": "January 24-27, 2027",
     "domains": [
       "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "MMM",
+    "full_name": "International Conference on Multimedia Modelling",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://www.mmm2027.net/",
+    "deadlines": {
+      "full_paper": "2026-08-16T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Siem Reap, Cambodia",
+    "date": "January 5-8, 2027",
+    "domains": [
+      "CV & Multimedia"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "PKC",
+    "full_name": "International Conference on Practice and Theory in Public Key Cryptography",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://pkc.iacr.org/2027/",
+    "deadlines": {
+      "full_paper": "2026-08-16T23:59:00"
+    },
+    "timezone": "UTC-12",
+    "place": "Taipei, Taiwan",
+    "date": "March 1-4, 2027",
+    "domains": [
+      "Security"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "IUI",
+    "full_name": "International Conference on Intelligent User Interfaces",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://iui.hosting.acm.org/2027/",
+    "deadlines": {
+      "full_paper": "2026-08-20T23:59:00",
+      "abstract": "2026-08-13T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Helsinki, Finland",
+    "date": "February 8-11, 2027",
+    "domains": [
+      "HCI"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "BIGDATA",
+    "full_name": "IEEE International Conference on Big Data",
+    "rank_core": "B",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://bigdataieee.org/BigData2026/",
+    "deadlines": {
+      "full_paper": "2026-08-21T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Phoenix, Arizona, United State",
+    "date": "December 14-17, 2026",
+    "domains": [
+      "Data"
+    ],
+    "open_access": false,
+    "artifact_badge": false
+  },
+  {
+    "title": "WACV",
+    "full_name": "IEEE Workshop on Applications of Computer Vision",
+    "rank_core": "A",
+    "is_csrankings": false,
+    "organizer": "Other",
+    "link": "https://wacv.thecvf.com/",
+    "deadlines": {
+      "full_paper": "2026-08-28T23:59:00",
+      "abstract": "2026-08-21T23:59:00"
+    },
+    "timezone": "AoE",
+    "place": "Disney Springs, Buena Vista, FL, USA",
+    "date": "Jan 5 - 9, 2027",
+    "domains": [
+      "CV & Multimedia"
     ],
     "open_access": false,
     "artifact_badge": false
